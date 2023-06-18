@@ -1,0 +1,13 @@
+root
+admin
+test
+guest
+user
+ubuntu
+ec2-user
+vagrant
+azureuser
+oracle
+nagios
+mysql
+postgres
